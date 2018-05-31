@@ -2,10 +2,10 @@
 
 12405 Alameda Trace Circle, Apt 1122, Austin, TX-
 Phone: +1 607-761-
-1.<subhasushi@gmail.com>
-2.<https://github.com/subhasushi>
-3.<https://www.linkedin.com/in/suchodavarapu/>
-4.<https://subhasushi.github.io/>
+<subhasushi@gmail.com>
+<https://github.com/subhasushi>
+<https://www.linkedin.com/in/suchodavarapu/>
+<https://subhasushi.github.io/>
 
 **SUMMARY**
 ● Five years of multinational experience in data analysis, quality assurance and project engineer management.
